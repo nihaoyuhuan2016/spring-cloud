@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekaserver" />
+        <module name="hystrix-dashboard" />
+        <module name="netflix-zuul" />
+        <module name="netflix-zuul-filter" />
+        <module name="server-consumer" />
+        <module name="server-consumer-feign" />
+        <module name="server-consumer1" />
+        <module name="server-provider1" />
+        <module name="server-provider2" />
+        <module name="server-provider3" />
+        <module name="spcdemo" />
+        <module name="spring-cloud-config-client" />
+        <module name="spring-cloud-config-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

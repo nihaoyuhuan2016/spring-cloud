@@ -1,0 +1,16 @@
+﻿
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+        #远程git仓库地址
+          uri: https://github.com/nihaoyuhuan2016/learngit.git
+          search-paths: springcloud-config
+#          username: nihaoyuhuan2016
+#          password: eee
+server:
+  port: 10000

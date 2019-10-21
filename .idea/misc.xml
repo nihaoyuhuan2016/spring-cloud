@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/server-provider1/pom.xml" />
+        <option value="$PROJECT_DIR$/server-provider2/pom.xml" />
+        <option value="$PROJECT_DIR$/server-provider3/pom.xml" />
+        <option value="$PROJECT_DIR$/server-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/server-consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/netflix-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/netflix-zuul-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

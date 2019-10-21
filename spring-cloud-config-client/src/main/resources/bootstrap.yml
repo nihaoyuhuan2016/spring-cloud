@@ -1,0 +1,15 @@
+﻿
+spring:
+  application:
+    name: config-client
+  cloud:
+    config:
+    # 分支
+      label: master
+      profile: test
+      #spring-cloud-config server端的地址
+      uri: http://192.168.7.104:10000/
+server:
+  port: 10001
+#          username:
+#          password:
