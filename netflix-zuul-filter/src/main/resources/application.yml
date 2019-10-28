@@ -23,4 +23,4 @@ zuul:
         api:
 #          path: /proController/getPort
           path: /**
-          serviceId: server-provider
+          serviceId: SERVER-CONSUMER-FEIGN
